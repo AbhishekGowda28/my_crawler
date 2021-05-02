@@ -18,7 +18,7 @@ npm install -g
 
 ## Unistallation
 ```bash
-npm uninstall -g my_crawler
+npm uninstall my_crawler
 ```
 
 ## Usage
