@@ -6,6 +6,12 @@ A Crawler to find a text content in the web page
 - User should have admin or elivated access to install the module
 
 ## Installation
+
+1. Install the related packages.
+```bash
+npm install
+```
+2. Install the module globally
 ```bash
 npm install -g
 ```
