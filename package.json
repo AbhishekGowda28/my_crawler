@@ -1,0 +1,16 @@
+{
+  "name": "my_crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AbhishekGowda28/my_crawler.git",
+  "author": "Abhishek Gowda <abhi.gowda28@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "js-crawler": "^0.3.21",
+    "jsdom": "^16.5.3"
+  },
+  "bin": {
+    "my_crawler": "index.js"
+  }
+}
