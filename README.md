@@ -65,4 +65,4 @@ my_crawler website_url search_term --showResult="false"
 ---
 ## Known Issue 
 - If the crawler encounters any css link with import in the body, it fails to parse.
-- A loader [user is not provided with any feedback] is not when the crawler is parsing or crawling.
+- A loader [user is not provided with any feedback] is not provided when the crawler is parsing or crawling.
